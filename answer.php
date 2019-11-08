@@ -10,7 +10,7 @@ if ($question === $answer) {
 ?>
 <?php
 $q2 = $_POST["q2"];
-if ($q2 == "ばら") {
+if ($q2 == "たかなし") {
     $result_2 = '正解';
 } else {
     $result_2 = '不正解';
