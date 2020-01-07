@@ -28,6 +28,7 @@
 <body>
     <h2>12345</h2>
     <p>git diff 変更</p>
+    <p>git commit --amend</p>
     <h2>第一問</h2>
     <h2><?php echo $title ?></h2>
     <form method="POST" action="answer.php">
