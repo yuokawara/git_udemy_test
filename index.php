@@ -31,6 +31,7 @@
     <p>git commit --amend</p>
     <p>git merge練習中</p>
     <p>conflict</p>
+    <p>pullrequest練習</p>
         <h2>第一問</h2>
         <h2><?php echo $title ?></h2>
         <form method="POST" action="answer.php">
